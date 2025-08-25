@@ -4,7 +4,7 @@
   command = "npm run build"
 
 [build.environment]
-  NODE_VERSION = "18.20.3"  # ✅ Use supported Node version
+  NODE_VERSION = "18.20.4"  # ✅ Use supported Node version
   NPM_FLAGS = "--legacy-peer-deps"
   ENABLE_COREPACK = "true"
 
