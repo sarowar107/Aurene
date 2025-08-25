@@ -12,8 +12,11 @@ export default defineConfig({
     port: 5174,
   },
   resolve: {
-    alias: {
-      '@': path.resolve(__dirname, 'src')
-    }
+    alias: [
+      { find: '@', replacement: path.resolve(__dirname, './src') },
+      { find: '@lib', replacement: path.resolve(__dirname, './src/lib') },
+      { find: '@components', replacement: path.resolve(__dirname, './src/components') }
+    ],
+    extensions: ['.js', '.jsx', '.ts', '.tsx']
   }
 })

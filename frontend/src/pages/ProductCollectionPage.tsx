@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Product } from '@/lib/types';
-import { ProductCard } from '@/components/ProductCard';
-import { fetcher } from '@/lib/api.ts';
+import { Product } from '../lib/types';
+import { ProductCard } from '../components/ProductCard';
+import { fetcher } from '../lib/api';
 import { ProductGridSkeleton } from '../components/skeletons/ProductGridSkeleton';
 import { ErrorMessage } from '../components/ErrorMessage';
 
