@@ -6,13 +6,10 @@
 [build.environment]
   NODE_VERSION = "20.11.1"
   NPM_FLAGS = "--legacy-peer-deps"
+  ENABLE_COREPACK = "true"  # ✅ FIXED
 
 # Handle SPA routing
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-
-# Enable Node.js Corepack
-[build.environment.ENABLE_COREPACK]
-  value = "true"
