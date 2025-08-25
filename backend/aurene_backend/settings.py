@@ -13,6 +13,9 @@ load_dotenv()
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# Port configuration
+PORT = int(os.environ.get('PORT', 8000))
+
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-o)-$g$lr9=3061(8(d8%t9hbm*fiov(*%o-e+2a0h-h5o#f&j1')
 
