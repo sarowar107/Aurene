@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Elegance Embroidered Net Saree",
+        "description": "This stunning net saree is intricately embroidered with delicate thread work, creating a beautiful and ethereal look. It's a perfect choice for weddings and grand events.",
+        "price": 25500.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LB2104_1.jpg?v=1755211777&width=500"
+    },
+    {
+        "name": "Crimson Silk Saree",
+        "description": "A classic crimson silk saree with a minimalist design, offering a timeless and elegant appeal. The rich color and smooth texture make it a versatile piece for any festive occasion.",
+        "price": 22500.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LB1968_1.jpg?v=1755212219&width=500"
+    },
+    {
+        "name": "Peacock Blue Brocade Saree",
+        "description": "This brocade saree features a vibrant peacock blue hue with intricate woven patterns. The luxurious fabric drapes beautifully, making it a sophisticated choice for formal events.",
+        "price": 21000.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Peacock_Blue_Embroidered_Brocade_Saree.jpg?v=1753204517&width=500"
+    },
+    {
+        "name": "Golden Zari Work Saree",
+        "description": "An exquisite saree with shimmering golden zari work and a delicate border. The lightweight material ensures comfort while the elaborate design makes it a festive favorite.",
+        "price": 23800.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LB5124.jpg?v=1753204627&width=500"
+    },
+    {
+        "name": "Floral Embroidered Organza Saree",
+        "description": "This organza saree is adorned with elegant floral embroidery, giving it a fresh and modern look. Its sheer fabric is perfect for creating a graceful silhouette.",
+        "price": 24500.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LB1075.jpg?v=1751002168&width=500"
+    },
+    {
+        "name": "Pastel Pink and Gold Saree",
+        "description": "A beautiful pastel pink saree with gold embellishments, offering a soft and sophisticated aesthetic. It's a versatile piece that can be worn for both daytime and evening events.",
+        "price": 21900.0,
+        "discount": 20.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/ED7411.jpg?v=1744423497&width=500"
+    },
+    {
+        "name": "Ruby Red Sequined Saree",
+        "description": "This stunning ruby red saree is fully covered in sequins, ensuring you stand out at any party. Its sparkling design is perfect for those who want a glamorous look.",
+        "price": 26000.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/ED7528.jpg?v=1744423215&width=500"
+    },
+    {
+        "name": "Turquoise Designer Saree",
+        "description": "A unique designer saree in a vibrant turquoise color with intricate detailing along the border. This piece is a blend of traditional style and contemporary fashion.",
+        "price": 25200.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/ED8459.jpg?v=1744423084&width=500"
+    },
+    {
+        "name": "Royal Blue and Silver Saree",
+        "description": "This royal blue saree is complemented by elegant silver work, creating a majestic and regal appearance. The luxurious fabric makes it comfortable to wear for long hours.",
+        "price": 23100.0,
+        "discount": 20.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/ED8073-1.jpg?v=1744433353&width=500"
+    },
+    {
+        "name": "Minimalist White and Gold Saree",
+        "description": "A minimalist white saree with a thin gold border, perfect for those who appreciate simplicity and sophistication. It's a timeless piece that exudes grace.",
+        "price": 20500.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LB0384_copy.jpg?v=1742536521&width=500"
+    },
+    {
+        "name": "Pastel Embroidered Chiffon Saree",
+        "description": "This chiffon saree is a light and flowy piece, featuring delicate pastel embroidery. It's perfect for a day event where comfort and elegance are key.",
+        "price": 19500.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LS_0545.jpg?v=1739507845&width=500"
+    },
+    {
+        "name": "Deep Red Heavy Work Saree",
+        "description": "A stunning deep red saree with heavy embroidery and a rich border. The intricate details make it an ideal outfit for bridal and festive occasions.",
+        "price": 26800.0,
+        "discount": 20.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/LB0144-1copy.jpg?v=1742532786&width=500"
+    }
+]
