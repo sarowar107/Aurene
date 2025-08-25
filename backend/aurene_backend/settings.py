@@ -84,7 +84,8 @@ USE_X_FORWARDED_HOST = True
 SECURE_SSL_REDIRECT = False  # Set to True if you want to force HTTPS
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5174",  # This is the URL from your screenshot
+    "http://localhost:5174", 
+    "https://aurene.netlify.app/"  # This is the URL from your screenshot
 ]
 
 ROOT_URLCONF = 'aurene_backend.urls'
