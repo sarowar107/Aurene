@@ -11,9 +11,9 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         # 1. Create a Superuser non-interactively
         User = get_user_model()
-        username = os.environ.get('admin')
-        email = os.environ.get('admin@gmail.com')
-        password = os.environ.get('admin')
+        username = os.environ.get('sarowar')
+        email = os.environ.get('sarowar@gmail.com')
+        password = os.environ.get('S@rowar321')
 
         if not all([username, email, password]):
             self.stdout.write(self.style.ERROR('Superuser environment variables are not set. Skipping superuser creation.'))
@@ -27,6 +27,11 @@ class Command(BaseCommand):
             else:
                 self.stdout.write(self.style.SUCCESS('Superuser already exists. Skipping creation.'))
         
+        self.stdout.write("-" * 20)
+
+        self.stdout.write(self.style.NOTICE('Deleting all existing products from the database...'))
+        Product.objects.all().delete()
+        self.stdout.write(self.style.SUCCESS('All existing products deleted.'))
         self.stdout.write("-" * 20)
 
         # 2. Seed Data from JSON

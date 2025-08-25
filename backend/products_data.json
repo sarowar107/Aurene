@@ -1,5 +1,285 @@
 [
     {
+        "name": "Dusky Purple Embroidered Tissue Saree",
+        "description": "Our Dusky Purple Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 24090.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Dusky_Purple_Embroidered_Tissue_Saree.jpg?v=1755233054&width=400"
+    },
+    {
+        "name": "Metallic Rose Pink Embroidered Tissue Saree",
+        "description": "Our Metallic Rose Pink Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 22990.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Metallic_Rose_Pink_Embroidered_Tissue_Saree.jpg?v=1755233136&width=400"
+    },
+    {
+        "name": "Light Green Embroidered Tissue Saree",
+        "description": "Our Light Green Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 23650.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Light_Green_Embroidered_Tissue_Saree.jpg?v=1755232273&width=400"
+    },
+    {
+        "name": "Brown Embroidered Tissue Saree",
+        "description": "Our Brown Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 21890.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Brown_Embroidered_Tissue_Saree.jpg?v=1755232040&width=400"
+    },
+    {
+        "name": "Pink Embroidered Tissue Saree",
+        "description": "Our Pink Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 19250.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Pink_Embroidered_Tissue_Saree.jpg?v=1755231728&width=400"
+    },
+    {
+        "name": "Golden Bronze Embroidered Tissue Saree",
+        "description": "Our Golden Bronze Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 24090.0,
+        "discount": 20.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Golden_Bronze_Embroidered_Tissue_Saree.jpg?v=1755231960&width=400"
+    },
+    {
+        "name": "Golden Yellow Embroidered Tissue Saree",
+        "description": "Our Golden Yellow Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using zari, mirror, and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 24750.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Golden_Yellow_Embroidered_Tissue_Saree.jpg?v=1755231905&width=400"
+    },
+    {
+        "name": "Pink Ombre Embroidered Tissue Saree",
+        "description": "Our Pink Ombre Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using mirror, zari, and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 23650.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/edited-LB18921.jpg?v=1755319817&width=400"
+    },
+    {
+        "name": "Dark Copper and Gold Embroidered Tissue Saree",
+        "description": "Our Dark Copper and Gold Embroidered Tissue Saree includes a viscose tissue zari top with satin inner and a viscose tissue organza saree. Embroidery is present on this style using mirror, zari, and hand embellishments. Like all of our pieces, this piece is made in India and checked by hand to ensure high quality.",
+        "price": 21450.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "saree",
+        "image_url": "https://www.lashkaraa.com/cdn/shop/files/Dark_Copper_and_Gold_Embroidered_Tissue_Saree.jpg?v=1755231089&width=400"
+    },
+    {
+        "name": "Regular Fit Panjabi",
+        "description": "Crafted from 100% pure cotton, this Panjabi offers breathable comfort with timeless charm. Featuring a mandarin collar and subtle embroidery along the placket with buttonhole detailing, it’s a perfect blend of simplicity and elegance—ideal for warm-weather festivities and everyday sophistication. Note: Final color of the product may vary slightly due to the variation of the light source & the photo device.",
+        "price": 2795.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/2_47558a89-7e07-4405-a8a2-9e9fa45e2b16.webp?v=1748775116&width=600"
+    },
+    {
+        "name": "Regular Fit Panjabi",
+        "description": "Crafted from 100% cotton, this Panjabi offers both comfort and breathability for all-day wear. The mandarin collar features an inside contrast, adding a refined and modern touch. The printed fabric design is complemented by dark contrast details inside the sleeve and moon, creating a striking balance of traditional style and contemporary flair. Note: Final color of the product may vary slightly due to the variation of the light source & the photo device.",
+        "price": 2295.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/167_88c6ef1a-4086-4ea5-bdac-3f9381c3f932.webp?v=1742286409&width=600"
+    },
+    {
+        "name": "Regular Fit Panjabi",
+        "description": "Made from 100% cotton fabric, this Panjabi offers both comfort and breathability. The mandarin collar features a subtle inside contrast, adding a refined touch. The printed fabric design is complemented by a dark contrast inside the sleeve and moon, creating a striking balance between traditional style and contemporary flair. Note: Final color of the product may vary slightly due to the variation of the light source & the photo device.",
+        "price": 2550.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/2_d0249b61-50af-4c38-a223-0ccc19364927.webp?v=1740901498&width=600"
+    },
+    {
+        "name": "Limited Edition Ceremonial Panjabi",
+        "description": "Elegantly tailored in a regular fit, this Black Range Panjabi is crafted from premium blended jacquard fabric. Featuring tonal Zardozi work on the placket and collar band with matched sequins and materials, it exudes understated luxury. Finished with a double placket, dyed-to-match buttonholes, refined buttons, and decorative stitching on the sleeve hem—perfect for timeless festive sophistication. Note: Final color of the product may vary slightly due to the variation of the light source & the photo device.",
+        "price": 6290.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/BMP-396-WEB-01.webp?v=1748326124&width=600"
+    },
+    {
+        "name": "Luxury Jacquard Panjabi",
+        "description": "This panjabi features a rich jacquard fabric and a sophisticated design, perfect for formal occasions. The detailed weave provides a premium feel and elegant look.",
+        "price": 3190.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/BMP-398-WEB-01.webp?v=1748847329&width=600"
+    },
+    {
+        "name": "Vibrant Casual Panjabi",
+        "description": "A comfortable and stylish panjabi with a striking color, suitable for everyday wear. Made from high-quality fabric, it offers a great blend of style and ease.",
+        "price": 2490.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/131_48e9046c-0ea3-45e7-b4cc-7e2e98671a1a.webp?v=1748249234&width=600"
+    },
+    {
+        "name": "Classic Cotton Panjabi",
+        "description": "This classic cotton panjabi is a wardrobe staple, offering a clean, simple, and elegant look. Its breathable fabric makes it perfect for warm weather.",
+        "price": 2290.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/152_6b4420b5-df89-4c50-a3bb-9c513fbbb6ce.webp?v=1742287728&width=600"
+    },
+    {
+        "name": "Patterned Modern Panjabi",
+        "description": "This piece features a subtle yet modern pattern that adds a unique touch to its simple design. It is ideal for those who prefer understated elegance.",
+        "price": 2890.0,
+        "discount": 20.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/2_e4bc908b-eb99-4f5c-b50d-7ea4d821091c.webp?v=1740902407&width=600"
+    },
+    {
+        "name": "Traditional Embroidered Panjabi",
+        "description": "A beautifully embroidered panjabi that combines traditional craftsmanship with a contemporary fit. The intricate detailing makes it a standout piece for any festival or celebration.",
+        "price": 3590.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/161_d445ba88-6e69-4ce3-8a29-62c17da976ca.webp?v=1740480427&width=600"
+    },
+    {
+        "name": "Lightweight Printed Panjabi",
+        "description": "Perfect for casual outings, this lightweight panjabi features a soft print. The material is comfortable and breathable, making it suitable for everyday use.",
+        "price": 2190.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/183.webp?v=1740403311&width=600"
+    },
+    {
+        "name": "Modern Cut Panjabi",
+        "description": "This panjabi has a sleek, modern cut that provides a sharp, tailored silhouette. Its clean design and rich color make it a versatile choice for a variety of events.",
+        "price": 2990.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/219.webp?v=1740389747&width=600"
+    },
+    {
+        "name": "Elegant Semi-Formal Panjabi",
+        "description": "A semi-formal panjabi with a subtle sheen, designed for comfort and style. The minimalist design allows it to be dressed up or down depending on the occasion.",
+        "price": 2690.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/157.webp?v=1740316339&width=600"
+    },
+    {
+        "name": "Solid Color Panjabi",
+        "description": "A timeless solid-color panjabi that is a must-have for any collection. Its classic design ensures it never goes out of style and can be paired with anything.",
+        "price": 2490.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/234.webp?v=1740313029&width=600"
+    },
+    {
+        "name": "Soft Texture Panjabi",
+        "description": "This panjabi is made from a soft-textured fabric, providing a comfortable and relaxed fit. The muted color adds to its understated and sophisticated appeal.",
+        "price": 2390.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/104_c89843aa-4207-4bef-8406-7cdb5c430305.webp?v=1740315373&width=600"
+    },
+    {
+        "name": "Contemporary Floral Panjabi",
+        "description": "A contemporary panjabi with a subtle floral pattern, combining modern design with traditional motifs. It is perfect for adding a touch of flair to your wardrobe.",
+        "price": 2590.0,
+        "discount": 0.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/1_1_bf1ae2eb-50e6-4ad1-8ca2-9bac36432074.webp?v=1740040625&width=600"
+    },
+    {
+        "name": "Formal Occasion Panjabi",
+        "description": "Designed for formal events, this panjabi has a clean, structured look and a rich color. Its minimalist aesthetic makes it a timeless addition to your collection.",
+        "price": 2790.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/2_432c7202-ae69-458e-933c-40f1d8da8602.webp?v=1740034715&width=600"
+    },
+    {
+        "name": "Casual Printed Panjabi",
+        "description": "A comfortable and casual panjabi with a simple print, perfect for daily wear. The lightweight fabric ensures you stay comfortable all day long.",
+        "price": 2190.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": true,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/3_e0b3c0b2-59b9-4d2f-8ddc-ba54cb3a87a0.webp?v=1740300416&width=600"
+    },
+    {
+        "name": "Classic Black Panjabi",
+        "description": "A classic black panjabi with a simple, elegant design that is perfect for any occasion. The versatile color and timeless style make it a must-have.",
+        "price": 2390.0,
+        "discount": 0.0,
+        "is_trending": false,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/109.webp?v=1739960382&width=600"
+    },
+    {
+        "name": "Subtle Pattern Panjabi",
+        "description": "This panjabi features a subtle, self-woven pattern that adds texture and depth to its look. It’s an understated yet sophisticated choice.",
+        "price": 2590.0,
+        "discount": 20.0,
+        "is_trending": true,
+        "is_new_arrival": false,
+        "product_type": "panjabi",
+        "image_url": "https://blucheez.fashion/cdn/shop/files/86.webp?v=1739949497&width=600"
+    },
+    {
         "name": "Elegance Embroidered Net Saree",
         "description": "This stunning net saree is intricately embroidered with delicate thread work, creating a beautiful and ethereal look. It's a perfect choice for weddings and grand events.",
         "price": 25500.0,
